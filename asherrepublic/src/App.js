@@ -1,23 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
-import BG from './Images/BG.jpg'
+import "./App.css";
+import AsherSignature from "./Images/AsherSignature.png";
+
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={BG} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div>
+        <img src={AsherSignature} className="App-logo" alt="logo" />
+      </div>
+      <div>
+        <h1 className="imageText Green">
+          This website is currently under construction, please come back soon!
+        </h1>
+      </div>
     </div>
   );
 }

@@ -1,34 +1,50 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
 .App {
+  background-image: url("./Images/BG.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
   text-align: center;
 }
 
 .App-logo {
-  height: 40vmin;
-  pointer-events: none;
+  width: 50%;
+  padding-top: 20px;
 }
 
+.imageText {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2.5vw;
+  font-family: 'Poppins', sans-serif;
 
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.Green {
+  color: #529D61
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media (max-width: 600px) {
+  .App {
+    background-position: center;
+
   }
-  to {
-    transform: rotate(360deg);
+
+  .App-logo {
+    width: 95%;
   }
+
+  .imageText {
+    font-size: 4vw;
+
+  }
+
 }
