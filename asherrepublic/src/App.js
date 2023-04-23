@@ -8,7 +8,7 @@ function App() {
         <img src={AsherSignature} className="App-logo" alt="signature" />
       </div>
       <div>
-        <h1 className="imageText Green">
+        <h1 className="imageText">
           This website is currently under construction, please come back soon!
         </h1>
       </div>
