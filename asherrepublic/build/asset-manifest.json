@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/AsherRepublic/static/css/main.f9df0b6b.css",
-    "main.js": "/AsherRepublic/static/js/main.07dc20f9.js",
-    "static/js/787.93088084.chunk.js": "/AsherRepublic/static/js/787.93088084.chunk.js",
-    "static/media/BG.jpg": "/AsherRepublic/static/media/BG.ce24e67bdb557ec76924.jpg",
-    "static/media/AsherSignature.png": "/AsherRepublic/static/media/AsherSignature.37b19cc93be4f2a7a60f.png",
-    "index.html": "/AsherRepublic/index.html",
-    "main.f9df0b6b.css.map": "/AsherRepublic/static/css/main.f9df0b6b.css.map",
-    "main.07dc20f9.js.map": "/AsherRepublic/static/js/main.07dc20f9.js.map",
-    "787.93088084.chunk.js.map": "/AsherRepublic/static/js/787.93088084.chunk.js.map"
+    "main.css": "/static/css/main.247497f9.css",
+    "main.js": "/static/js/main.b535eec5.js",
+    "static/js/787.93088084.chunk.js": "/static/js/787.93088084.chunk.js",
+    "static/media/BG.jpg": "/static/media/BG.ce24e67bdb557ec76924.jpg",
+    "static/media/AsherSignature.png": "/static/media/AsherSignature.37b19cc93be4f2a7a60f.png",
+    "index.html": "/index.html",
+    "main.247497f9.css.map": "/static/css/main.247497f9.css.map",
+    "main.b535eec5.js.map": "/static/js/main.b535eec5.js.map",
+    "787.93088084.chunk.js.map": "/static/js/787.93088084.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9df0b6b.css",
-    "static/js/main.07dc20f9.js"
+    "static/css/main.247497f9.css",
+    "static/js/main.b535eec5.js"
   ]
 }
